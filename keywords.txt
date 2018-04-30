@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For ConnexThings_BC95
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+CommandResponse	KEYWORD1
+ThingClass	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+readDesiredStates	KEYWORD2
+reportState	KEYWORD2
+reportStates	KEYWORD2
+execTask	KEYWORD2
+
+thingDesiredStatesReadResponse	KEYWORD2
+thingDesiredStatesChanged	KEYWORD2
+thingCommandReceived	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+Thing	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+THING_TOKEN	LITERAL1	PREPROCESSOR
