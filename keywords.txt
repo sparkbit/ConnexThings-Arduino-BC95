@@ -28,4 +28,4 @@ Thing	KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
-THING_TOKEN	LITERAL1	PREPROCESSOR
+THING_TOKEN	LITERAL1		PREPROCESSOR
